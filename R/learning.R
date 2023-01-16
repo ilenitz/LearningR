@@ -22,3 +22,14 @@ r3::check_git_config()
 
 
 #This will be used for testing out Git
+
+#Connecting to github
+
+usethis::create_github_token()
+
+
+gitcreds::gitcreds_set()
+
+usethis::use_github()
+
+#usethis::git_sitrep()
