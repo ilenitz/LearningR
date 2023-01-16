@@ -1,3 +1,5 @@
+Ibai Lenitz Etxaburu
+
 TODO: Add more to the title of your project here
 
 # LearningR:
@@ -28,6 +30,3 @@ You'll need to have remotes installed for this to work.
 # Resource
 
 For more information on this folder and file workflow and setup, check out the [prodigenr](https://rostools.github.io/prodigenr) online documentation.
-
-Ibai Lenitz Etxaburu
-
