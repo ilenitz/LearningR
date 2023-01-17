@@ -1,0 +1,6 @@
+---
+title: "Reproducible document"
+author: "Ibai Lenitz Etxaburu"
+format: html
+---
+
