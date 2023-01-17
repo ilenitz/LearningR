@@ -2,6 +2,8 @@ Ibai Lenitz Etxaburu
 
 This is a test of github push
 
+This is a test of github pull
+
 TODO: Add more to the title of your project here
 
 # LearningR:
