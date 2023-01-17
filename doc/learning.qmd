@@ -2,9 +2,33 @@
 title: "Reproducible document"
 author: "Ibai Lenitz Etxaburu"
 format: html
-editor_options: 
-  chunk_output_type: inline
 ---
+
+- Ibai Lenitz Etxaburu
+- Chalmers University of Technology
+- Industrial Biotechnology division
+
+# Intro
+
+We need to **better** utilize our *biomass* in order to fight climate change.
+
+# Methods and Results
+
+High *throughput* **analysis** blablablah
+
+##Analysis
+
+```{r}
+#| echo: false
+#| message: false
+2+2
+```
+
+
+
+# Discussion
+
+We found **absolutely** nothing *interesting*
 
 
 ```{r setup}
@@ -62,5 +86,13 @@ nhanes_small %>%
     "Mean BMI" = mean_bmi,
     "Education" = education
   ) %>%
-  knitr::kable(caption = "Mean values of Age and BMI for each education and diabetes status.")
+  knitr::kable(caption = "**Mean values of Age and BMI for each education and diabetes status.**")
 ```
+
+# Inserting images (Exercise 8.7)
+
+![Bits](images/Bits.jpg){#fig-cat}
+
+Neure Bits @fig-cat
+
+
